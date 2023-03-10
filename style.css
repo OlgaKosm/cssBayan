@@ -5,6 +5,17 @@
     box-sizing: border-box;
 }
 
+body {
+    background: #defcf9;
+}
+
 h1 {
     font-weight: 700;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#accordion{
+    margin: 100px auto;
+    width: 600px;
 }
